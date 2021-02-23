@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CleanDesktopScript:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79ee8c20-3d09-4059-afb7-01ab1f3f8669" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CleanDesktopScript_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\demed\IdeaProjects\CleanDesctopScript\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oEgyOWdlxuIqt8TNZpWfJqeHbV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.22068965" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\demed\IdeaProjects\CleanDesctopScript\target\classes" />
+      <recent name="C:\Users\demed\IdeaProjects\CleanDesctopScript\src" />
+      <recent name="C:\Users\demed\IdeaProjects\CleanDesctopScript" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AppLaunch">
+    <configuration name="AppLaunch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.demedyuk.scripts.AppLaunch" />
+      <module name="CleanDesktopScript" />
+      <option name="PROGRAM_PARAMETERS" value="true" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.demedyuk.scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CleanDesktopScript" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.demedyuk.scripts.CleanDesktopScript" />
+      <module name="CleanDesktopScript" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.demedyuk.scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AppLaunch" />
+      <item itemvalue="Application.CleanDesktopScript" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppLaunch" />
+        <item itemvalue="Application.CleanDesktopScript" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79ee8c20-3d09-4059-afb7-01ab1f3f8669" name="Default Changelist" comment="" />
+      <created>1612857417567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612857417567</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="83" key="#AppLaunch" timestamp="1614078171612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="83" key="#AppLaunch/0.0.1536.824@0.0.1536.824" timestamp="1614078171612" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1612858041247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1612858041247" />
+    <state x="223" y="50" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614080299863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="50" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1614080299863" />
+    <state x="527" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1613857850867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1613857850867" />
+    <state x="527" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1614028474514">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1614028474514" />
+    <state x="906" y="231" key="#xdebugger.evaluate" timestamp="1614079542259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="906" y="231" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1614079542259" />
+    <state x="377" y="11" key="CommitChangelistDialog2" timestamp="1614081644208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="377" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1614081644208" />
+    <state width="452" height="466" key="DebuggerActiveHint" timestamp="1614080318719">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="452" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1614080318719" />
+    <state x="548" y="192" key="FileChooserDialogImpl" timestamp="1613858573635">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="192" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613858573635" />
+    <state width="1493" height="328" key="GridCell.Tab.0.bottom" timestamp="1614081499289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="328" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614081499289" />
+    <state width="1493" height="328" key="GridCell.Tab.0.center" timestamp="1614081499289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="328" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614081499289" />
+    <state width="1493" height="328" key="GridCell.Tab.0.left" timestamp="1614081499289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="328" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614081499289" />
+    <state width="1493" height="328" key="GridCell.Tab.0.right" timestamp="1614081499289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="328" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614081499289" />
+    <state width="1493" height="328" key="GridCell.Tab.1.bottom" timestamp="1614081499290">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="328" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614081499290" />
+    <state width="1493" height="328" key="GridCell.Tab.1.center" timestamp="1614081499289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="328" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1614081499289" />
+    <state width="1493" height="328" key="GridCell.Tab.1.left" timestamp="1614081499289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="328" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1614081499289" />
+    <state width="1493" height="328" key="GridCell.Tab.1.right" timestamp="1614081499289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="328" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1614081499289" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1612905908742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1612905908742" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1614077634681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614077634681" />
+    <state x="526" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1613855287606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1613855287606" />
+    <state x="499" y="168" key="extract.method.dialog" timestamp="1613074258221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="168" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1613074258221" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1613851582765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1613851582765" />
+    <state x="475" y="31" key="refactoring.ChangeSignatureDialog" timestamp="1614078007669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="31" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1614078007669" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1614029041311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1614029041311" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1614081647155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1614081647155" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/demedyuk/scripts/CleanDesktopScript.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/demedyuk/scripts/CleanDesktopScript.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/demedyuk/scripts/CleanDesktopScript.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/demedyuk/scripts/CleanDesktopScript.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/demedyuk/scripts/CleanDesktopScript.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="excludeFiles" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

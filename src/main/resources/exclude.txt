@@ -1,0 +1,13 @@
+desktop.ini
+AllGarbage
+
+QA
+Notes
+
+English
+RM_workspace
+Личное
+
+Event.lnk
+The Jackbox Party Pack 3.lnk
+Arisha.lnk
